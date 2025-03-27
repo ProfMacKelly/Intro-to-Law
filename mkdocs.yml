@@ -1,0 +1,3 @@
+site_name: Converted intro-courts
+plugins:
+  - gitbook2mkdocs
