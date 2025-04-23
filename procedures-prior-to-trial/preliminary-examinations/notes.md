@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Notes
 
 ## &#x20;Purpose&#x20;
