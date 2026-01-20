@@ -22,9 +22,7 @@ The American legal system was developed with the goal of establishing a set of s
 
 ### Promoting Consistency
 
-The American legal system follows the British Common Law system, which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law system help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely onprecedent, i.e., previous court rulings on similar cases, for ruling on their own cases.
-
-All U.S. states, except Louisiana, have enacted “reception statutes,” stating that the judge-made common law of England is the law of the state to the extent that it does not conflict with the state’s current laws.
+The American legal system follows the British Common Law system, which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law system help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar cases, for ruling on their own cases.
 
 However, the body of American law is now so robust that American cases rarely cite English materials, except for a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore, the current American practice of the common law tradition refers more to the process of judges looking to the precedent set jurisdictionally, and substantially similar to, American case law.
 
@@ -46,7 +44,7 @@ Based on the British legal system, the American legal system is divided into a f
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions</summary>
 
 Except where otherwise noted, this page's content is adapted from [1.2 What is Law and What Functions Does It Serve?](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.02%3A_What_Is_Law_and_What_Functions_Does_It_Serve) in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
