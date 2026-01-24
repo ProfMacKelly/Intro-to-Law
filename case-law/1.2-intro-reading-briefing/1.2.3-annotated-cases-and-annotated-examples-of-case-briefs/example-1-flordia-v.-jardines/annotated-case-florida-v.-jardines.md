@@ -151,7 +151,7 @@ _It is so ordered._
 
 [ <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg" alt="" data-size="line">](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
-[Annotated Case: _Florida v. Jardines_](broken-reference) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
+[Annotated Case: _Florida v. Jardines_](/broken/pages/6Cdo8KBpLfyNQoeMPTOk) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
 
 </details>
 
