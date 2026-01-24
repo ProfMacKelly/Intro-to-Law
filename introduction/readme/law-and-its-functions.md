@@ -8,13 +8,13 @@ Although a nation ruled by an authoritarian government may keep the peace and ma
 
 In nations with various ethnic and tribal groups, it is often difficult for a single, united government to rule effectively. In Rwanda, for example, power struggles between Hutus and Tutsis resulted in the genocide of the Tutsi minority. In nations of the former Soviet Union, the withdrawal of a central power created power vacuums that were exploited by local leaders. When Yugoslavia broke up, the different ethnic groups—Croats, Bosniaks, and Serbs—fought bitterly rather than share power. In Iraq and Afghanistan, the blending of different groups of families, tribes, sects, and ethnic groups into an effective national governing body continues to be a challenge.
 
-## Rule of Law
+## Rule of Law: A System & Principle
 
 ### Rule of Law: A System
 
 These situations highlight the struggle of a nation to implement and maintain a **Rule of Law** system. A Rule of Law system is a system in which laws are public knowledge, are clear in meaning, and apply equally to everyone. These systems uphold national political and civil liberties. Rule of law systems establish authority, create expectations for behavior, and establish redress for grievances and penalties for deviance. Governance of conflict and the attainment of peace among the governed are its primary goals. One of the greatest benefits of the Rule of Law is that it allows people to understand what is expected of them.
 
-The United States is a **Rule of Law** system.&#x20;
+The United States is a **Rule of Law** system.
 
 ### Rule of Law: A Principle
 
@@ -59,4 +59,3 @@ Except where otherwise noted, this page's content is adapted from [1.2 What is L
 <img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
 
 </details>
-
