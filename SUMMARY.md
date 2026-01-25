@@ -60,8 +60,12 @@
 * [Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/README.md)
   * [Brief: Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/brief-chimel-v.-california.md)
 
+## BACK MATTER
+
+* [Page 2](back-matter/page-2.md)
+
 ***
 
-* [BACK MATTER](back-matter.md)
+* [BACK MATTER](back-matter-1.md)
+* [🔤 Glossary](glossary.md)
 * [Page 1](page-1.md)
-* [📘 Glossary](glossary.md)
