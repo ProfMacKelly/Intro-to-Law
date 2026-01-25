@@ -1,8 +1,4 @@
----
-icon: scale-balanced
----
-
-# Introduction to Law and the Courts
+# 🏛️ Introduction to Law and the Courts
 
 {% stepper %}
 {% step %}
@@ -41,4 +37,3 @@ icon: scale-balanced
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
-
