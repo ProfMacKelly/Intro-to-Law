@@ -10,7 +10,7 @@ In the United States, our laws come primarily from:
 * Executive orders.
 
 {% embed url="https://youtu.be/y-rAjwNhp_8" %}
-[_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)[ ](https://youtu.be/wNlilK7uuT4)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_. (See the_ [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states)_)_
+[_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)[ ](https://youtu.be/wNlilK7uuT4)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_._ (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
 {% endembed %}
 
 {% @lucid/lucid-component url="https://lucid.app/lucidchart/8d71d2f6-172b-4195-ad3a-3fa3430823e2/edit?invitationId=inv_dcc9271a-4a09-4064-ba46-e4af4df188b8&viewport_loc=415,-499,1737,805,0_0" %}
@@ -19,7 +19,7 @@ In the United States, our laws come primarily from:
 
 ### **Federal/National**
 
-The most fundamental law in the [United States is the US Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
+The most fundamental law in the [United States is the U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 
@@ -33,7 +33,7 @@ The first ten amendments to the Constitution are known as the **Bill of Rights**
 
 ### **State**
 
-In the United States, each state also has its own constitution, which serves essentially the same function for the state government as the US Constitution serves for the federal government. Specifically, state constitutions establish limits of state government power, establish the organization and duties of the different branches of government at the state level, and protect fundamental rights of state citizens.
+In the United States, each state also has its own constitution, which serves essentially the same function for the state government as the U.S. Constitution serves for the federal government. Specifically, state constitutions establish limits of state government power, establish the organization and duties of the different branches of government at the state level, and protect fundamental rights of state citizens.
 
 This dual system of government in the United States is called **federalism**, which is a governance structure whereby the federal government and the state governments coexist through a shared power scheme.
 
@@ -46,7 +46,7 @@ This dual system of government in the United States is called **federalism**, wh
 {% hint style="info" %}
 **Constitutional Law: Example of Government and Private Acts**
 
-Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the US Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
+Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
 {% endhint %}
 
 ### Exceptions to Constitutional Protections
@@ -55,13 +55,15 @@ The federal and state constitutions are both written with words that can be subj
 
 For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
-### Supremacy of the US Constitution
+For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
-Of all sources of law in the United States, the US Constitution is considered the _highest_ and should not be supplanted by either of the other two sources of law. Pursuant to principles of federal supremacy, the US Constitution is the most preeminent source of law, and state constitutions cannot supersede it.
+### Supremacy of the U.S. Constitution
+
+Of all sources of law in the United States, the U.S. Constitution is considered the _highest_ and should not be supplanted by either of the other two sources of law. Pursuant to principles of federal supremacy, the U.S. Constitution is the most preeminent source of law, and state constitutions cannot supersede it.
 
 ## Statutes
 
-While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The US legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
+While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The U.S. legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
 
 {% hint style="info" %}
 **The Model Penal Code**
@@ -83,7 +85,7 @@ Administrative laws are enacted by **administrative agencies**, which are govern
 
 ### Executive Orders
 
-**Executive orders** are another type of administrative law. [Article II, Section 1](https://constitution.congress.gov/constitution/article-2/) of the US Constitution gives the president the power to “take care that the laws be faithfully executed.” Under this power, the president may issue **executive orders** requiring officials in the executive branch to perform their duties in a particular manner. State governors have the same authority under state constitutions. Although they are not laws that apply directly to individuals and businesses, executive orders are important legal documents because they direct the government’s enforcement efforts.
+**Executive orders** are another type of administrative law. [Article II, Section 1](https://constitution.congress.gov/constitution/article-2/) of the U.S. Constitution gives the president the power to “take care that the laws be faithfully executed.” Under this power, the president may issue **executive orders** requiring officials in the executive branch to perform their duties in a particular manner. State governors have the same authority under state constitutions. Although they are not laws that apply directly to individuals and businesses, executive orders are important legal documents because they direct the government’s enforcement efforts.
 
 ## Common Law (aka Case Law)
 
@@ -122,12 +124,12 @@ Generally, if there is a statute on an issue, the statute is _superior_ to case 
 {% hint style="info" %}
 **Example of Judicial Review**
 
-An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the US Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the US Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the US Constitution but also _changes_ the US Constitution by adding flag burning to the First Amendment’s protection of speech.
+An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the U.S. Constitution but also _changes_ the U.S. Constitution by adding flag burning to the First Amendment’s protection of speech.
 {% endhint %}
 
 ## Treaties and Conventions
 
-A **treaty** is a binding agreement between two nations. A **convention** is a binding agreement among a group of nations. In the US, a treaty or convention is generally negotiated by the executive branch. To be binding, the US Constitution requires the Senate to ratify treaties by a two-thirds vote. Once ratified, a treaty becomes part of federal law with the same weight and effect as a statute passed by the entire Congress. Therefore, treaties and conventions have equal standing as statutes in US law.
+A **treaty** is a binding agreement between two nations. A **convention** is a binding agreement among a group of nations. In the U.S., a treaty or convention is generally negotiated by the executive branch. To be binding, the U.S. Constitution requires the Senate to ratify treaties by a two-thirds vote. Once ratified, a treaty becomes part of federal law with the same weight and effect as a statute passed by the entire Congress. Therefore, treaties and conventions have equal standing as statutes in U.S. law.
 
 ***
 
