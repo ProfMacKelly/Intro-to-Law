@@ -4,6 +4,8 @@ hidden: true
 
 # Page 1
 
+[**Glossary from Libretexts**](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/zz%3A_Back_Matter/20%3A_Glossary)
+
 ### Quiz
 
 {% embed url="https://profmackelly.github.io/resources-h5p/embedcode.html" %}
