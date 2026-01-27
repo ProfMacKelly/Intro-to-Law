@@ -27,6 +27,10 @@
   * [Arraignment](procedures-prior-to-trial-1/arraignment/README.md)
     * [Video: Kyle Rittenhouse](procedures-prior-to-trial-1/arraignment/video-kyle-rittenhouse.md)
 * [The United States Court System](the-united-states-court-system/README.md)
+  * [Introduction](the-united-states-court-system/introduction.md)
+  * [Separation of Powers](the-united-states-court-system/separation-of-powers.md)
+  * [Federalism](the-united-states-court-system/federalism.md)
+  * [Trial and Appellate Courts](the-united-states-court-system/trial-and-appellate-courts.md)
 
 ## Case Law
 
