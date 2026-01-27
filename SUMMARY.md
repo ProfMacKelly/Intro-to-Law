@@ -26,6 +26,7 @@
 * [Procedures Prior to Trial](procedures-prior-to-trial-1/README.md)
   * [Arraignment](procedures-prior-to-trial-1/arraignment/README.md)
     * [Video: Kyle Rittenhouse](procedures-prior-to-trial-1/arraignment/video-kyle-rittenhouse.md)
+* [The United States Court System](the-united-states-court-system/README.md)
 
 ## Case Law
 
